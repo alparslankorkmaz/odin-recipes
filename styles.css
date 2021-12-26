@@ -1,0 +1,53 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(103, 128, 62);
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    color: sandybrown;
+    text-shadow: 2px 2px black;
+}
+
+img.frontpageimg {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    mix-blend-mode: multiply;
+}
+
+img.lasagna {
+    display: block;
+    margin: 0 auto;
+}
+
+img.roast {
+    display: block;
+    margin: 0 auto;
+}
+
+img.mac {
+    display: block;
+    margin: 0 auto;
+}
+
+ul {
+    background: goldenrod;
+    padding: 20px;
+    margin: 1em;
+}
+
+ul li {
+    background: lightyellow;
+    margin: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+ol li {
+    margin: 10px 0;
+    font-weight: bold;
+}
+
